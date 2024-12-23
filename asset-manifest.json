@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SankalpHardiya/React-Form.git/static/css/main.3afeec56.css",
+    "main.js": "/SankalpHardiya/React-Form.git/static/js/main.01499b96.js",
+    "index.html": "/SankalpHardiya/React-Form.git/index.html",
+    "main.3afeec56.css.map": "/SankalpHardiya/React-Form.git/static/css/main.3afeec56.css.map",
+    "main.01499b96.js.map": "/SankalpHardiya/React-Form.git/static/js/main.01499b96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3afeec56.css",
+    "static/js/main.01499b96.js"
+  ]
+}
